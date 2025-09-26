@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm JG Garçon
 
-<!--
-**jggarcon/jggarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a creative background in design. I love building real-world web and mobile applications that are clean, practical, and user-focused.
 
-Here are some ideas to get you started:
+- 🔧 Tech: C#, .NET, Java, Spring Boot, Docker, SQL Server, WordPress, HTML, Javascript, CSS
+- 📱 Currently working on: Springboot web apps and Wordpress
+- 🎓 Graduate of NBCC – Web & Mobile App Development class of 2025
+- 🧑‍🎨 Also skilled in graphic/video design and branding
+- 🌎 Based in Moncton, NB
+- ✨ Passionate about learning, teaching, and bringing ideas to life
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+
+[📫 LinkedIn](https://www.linkedin.com/in/jggarcon)  
+[🖥️ Portfolio](https://www.jggarcon.com)  
+[📧 Email](mailto:hi@jggarcon.com)
